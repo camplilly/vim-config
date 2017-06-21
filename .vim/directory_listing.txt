@@ -1,0 +1,1541 @@
+Listing of .vim directory
+
+.:
+total 16K
+drwxr-xr-x  13 scott 442 Jun 20 20:17 .
+drwxr-xr-x   6 scott 204 Jun 20 20:08 ..
+drwxr-xr-x   8 scott 272 Jun 20 19:46 bundle
+drwxr-xr-x   4 scott 136 Jun 20 19:46 colors
+-rw-r--r--   1 scott   0 Jun 20 20:17 directory_listing.txt
+-rw-r--r--   1 scott  50 Jun 20 19:46 filetype.vim
+-rw-r--r--   1 scott  50 Jun 20 19:46 filetype.vimx
+drwxr-xr-x   3 scott 102 Jun 20 19:46 fonts
+drwxr-xr-x   3 scott 102 Jun 20 19:46 ftdetect
+-rw-r--r--   1 scott  94 Jun 20 19:46 scripts.vim
+-rw-r--r--   1 scott  94 Jun 20 19:46 scripts.vimx
+drwxr-xr-x   4 scott 136 Jun 20 19:46 syntax
+drwxr-xr-x 580 scott 20K Jun 20 19:46 view
+
+./bundle:
+total 0
+drwxr-xr-x  8 scott 272 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:17 ..
+drwxr-xr-x 11 scott 374 Jun 20 19:46 Vundle.vim
+drwxr-xr-x  9 scott 306 Jun 20 19:46 ag.vim
+drwxr-xr-x  8 scott 272 Jun 20 19:46 ctrlp.vim
+drwxr-xr-x 11 scott 374 Jun 20 19:46 nerdtree
+drwxr-xr-x 13 scott 442 Jun 20 19:46 vim-airline
+drwxr-xr-x  7 scott 238 Jun 20 19:46 vim-numbertoggle
+
+./bundle/Vundle.vim:
+total 28K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .git
+-rw-r--r--  1 scott   20 Jun 20 19:46 .gitignore
+-rw-r--r--  1 scott 6.1K Jun 20 19:46 CONTRIBUTING.md
+-rw-r--r--  1 scott 1.1K Jun 20 19:46 LICENSE-MIT.txt
+-rw-r--r--  1 scott 5.8K Jun 20 19:46 README.md
+drwxr-xr-x  4 scott  136 Jun 20 19:46 autoload
+-rw-r--r--  1 scott  809 Jun 20 19:46 changelog.md
+drwxr-xr-x  4 scott  136 Jun 20 19:46 doc
+drwxr-xr-x  5 scott  170 Jun 20 19:46 test
+
+./bundle/Vundle.vim/.git:
+total 20K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott   23 Jun 20 19:46 HEAD
+drwxr-xr-x  2 scott   68 Jun 20 19:46 branches
+-rw-r--r--  1 scott  310 Jun 20 19:46 config
+-rw-r--r--  1 scott   73 Jun 20 19:46 description
+drwxr-xr-x 11 scott  374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 1.2K Jun 20 19:46 index
+drwxr-xr-x  3 scott  102 Jun 20 19:46 info
+drwxr-xr-x  4 scott  136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott  136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 1.8K Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott  170 Jun 20 19:46 refs
+
+./bundle/Vundle.vim/.git/branches:
+total 0
+drwxr-xr-x  2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+
+./bundle/Vundle.vim/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/Vundle.vim/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/Vundle.vim/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 184 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/Vundle.vim/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/Vundle.vim/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 184 Jun 20 19:46 master
+
+./bundle/Vundle.vim/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/Vundle.vim/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 184 Jun 20 19:46 HEAD
+
+./bundle/Vundle.vim/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/Vundle.vim/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/Vundle.vim/.git/objects/pack:
+total 932K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott  80K Jun 20 19:46 pack-660a5520ccf187df959316f1e9282323a8cb16d4.idx
+-r--r--r-- 1 scott 852K Jun 20 19:46 pack-660a5520ccf187df959316f1e9282323a8cb16d4.pack
+
+./bundle/Vundle.vim/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/Vundle.vim/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/Vundle.vim/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/Vundle.vim/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/Vundle.vim/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/Vundle.vim/autoload:
+total 4.0K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+drwxr-xr-x  5 scott  170 Jun 20 19:46 vundle
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 vundle.vim
+
+./bundle/Vundle.vim/autoload/vundle:
+total 44K
+drwxr-xr-x 5 scott  170 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  11K Jun 20 19:46 config.vim
+-rw-r--r-- 1 scott  18K Jun 20 19:46 installer.vim
+-rw-r--r-- 1 scott 9.1K Jun 20 19:46 scripts.vim
+
+./bundle/Vundle.vim/doc:
+total 20K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 tags
+-rw-r--r--  1 scott  15K Jun 20 19:46 vundle.txt
+
+./bundle/Vundle.vim/test:
+total 8.0K
+drwxr-xr-x  5 scott  170 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+drwxr-xr-x  3 scott  102 Jun 20 19:46 files
+-rw-r--r--  1 scott  167 Jun 20 19:46 minirc.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 vimrc
+
+./bundle/Vundle.vim/test/files:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 423 Jun 20 19:46 test.erl
+
+./bundle/ag.vim:
+total 12K
+drwxr-xr-x  9 scott  306 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+drwxr-xr-x 12 scott  408 Jun 20 20:09 .git
+-rw-r--r--  1 scott   16 Jun 20 19:46 .gitignore
+-rw-r--r--  1 scott 2.9K Jun 20 19:46 README.md
+-rw-r--r--  1 scott   79 Jun 20 19:46 Rakefile
+drwxr-xr-x  3 scott  102 Jun 20 19:46 autoload
+drwxr-xr-x  4 scott  136 Jun 20 19:46 doc
+drwxr-xr-x  3 scott  102 Jun 20 19:46 plugin
+
+./bundle/ag.vim/.git:
+total 20K
+drwxr-xr-x 12 scott 408 Jun 20 20:09 .
+drwxr-xr-x  9 scott 306 Jun 20 19:46 ..
+-rw-r--r--  1 scott  23 Jun 20 19:46 HEAD
+-rw-r--r--  1 scott 305 Jun 20 19:46 config
+-rw-r--r--  1 scott  73 Jun 20 19:46 description
+drwxr-xr-x 11 scott 374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 496 Jun 20 19:46 index
+drwxr-xr-x  3 scott 102 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott 136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 107 Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott 170 Jun 20 19:46 refs
+
+./bundle/ag.vim/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 12 scott  408 Jun 20 20:09 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/ag.vim/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 12 scott 408 Jun 20 20:09 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/ag.vim/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 12 scott 408 Jun 20 20:09 ..
+-rw-r--r--  1 scott 186 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/ag.vim/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/ag.vim/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 186 Jun 20 19:46 master
+
+./bundle/ag.vim/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/ag.vim/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 186 Jun 20 19:46 HEAD
+
+./bundle/ag.vim/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 12 scott 408 Jun 20 20:09 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/ag.vim/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/ag.vim/.git/objects/pack:
+total 132K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott  17K Jun 20 19:46 pack-3eef74a8ec82aa2369d6695bb8020004108282fa.idx
+-r--r--r-- 1 scott 109K Jun 20 19:46 pack-3eef74a8ec82aa2369d6695bb8020004108282fa.pack
+
+./bundle/ag.vim/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 12 scott 408 Jun 20 20:09 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/ag.vim/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/ag.vim/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/ag.vim/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/ag.vim/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/ag.vim/autoload:
+total 8.0K
+drwxr-xr-x 3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 9 scott  306 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 5.6K Jun 20 19:46 ag.vim
+
+./bundle/ag.vim/doc:
+total 12K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 9 scott  306 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 7.0K Jun 20 19:46 ag.txt
+-rw-r--r-- 1 scott  708 Jun 20 19:46 tags
+
+./bundle/ag.vim/plugin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 9 scott 306 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 914 Jun 20 19:46 ag.vim
+
+./bundle/ctrlp.vim:
+total 8.0K
+drwxr-xr-x  8 scott  272 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .git
+-rw-r--r--  1 scott   42 Jun 20 19:46 .gitignore
+drwxr-xr-x  4 scott  136 Jun 20 19:46 autoload
+drwxr-xr-x  4 scott  136 Jun 20 19:46 doc
+drwxr-xr-x  3 scott  102 Jun 20 19:46 plugin
+-rw-r--r--  1 scott 3.5K Jun 20 19:46 readme.md
+
+./bundle/ctrlp.vim/.git:
+total 20K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+-rw-r--r--  1 scott   23 Jun 20 19:46 HEAD
+drwxr-xr-x  2 scott   68 Jun 20 19:46 branches
+-rw-r--r--  1 scott  307 Jun 20 19:46 config
+-rw-r--r--  1 scott   73 Jun 20 19:46 description
+drwxr-xr-x 11 scott  374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 1.5K Jun 20 19:46 index
+drwxr-xr-x  3 scott  102 Jun 20 19:46 info
+drwxr-xr-x  4 scott  136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott  136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 1.5K Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott  170 Jun 20 19:46 refs
+
+./bundle/ctrlp.vim/.git/branches:
+total 0
+drwxr-xr-x  2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+
+./bundle/ctrlp.vim/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/ctrlp.vim/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/ctrlp.vim/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 181 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/ctrlp.vim/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/ctrlp.vim/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 181 Jun 20 19:46 master
+
+./bundle/ctrlp.vim/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/ctrlp.vim/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 181 Jun 20 19:46 HEAD
+
+./bundle/ctrlp.vim/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/ctrlp.vim/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/ctrlp.vim/.git/objects/pack:
+total 920K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott  76K Jun 20 19:46 pack-2d692c32946c58a902457f295e93a0a4d4781bcc.idx
+-r--r--r-- 1 scott 844K Jun 20 19:46 pack-2d692c32946c58a902457f295e93a0a4d4781bcc.pack
+
+./bundle/ctrlp.vim/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/ctrlp.vim/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/ctrlp.vim/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/ctrlp.vim/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/ctrlp.vim/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/ctrlp.vim/autoload:
+total 64K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x  8 scott 272 Jun 20 19:46 ..
+drwxr-xr-x 14 scott 476 Jun 20 19:46 ctrlp
+-rw-r--r--  1 scott 62K Jun 20 19:46 ctrlp.vim
+
+./bundle/ctrlp.vim/autoload/ctrlp:
+total 52K
+drwxr-xr-x 14 scott  476 Jun 20 19:46 .
+drwxr-xr-x  4 scott  136 Jun 20 19:46 ..
+-rw-r--r--  1 scott 3.6K Jun 20 19:46 bookmarkdir.vim
+-rw-r--r--  1 scott 7.2K Jun 20 19:46 buffertag.vim
+-rw-r--r--  1 scott 2.7K Jun 20 19:46 changes.vim
+-rw-r--r--  1 scott 2.7K Jun 20 19:46 dir.vim
+-rw-r--r--  1 scott 2.1K Jun 20 19:46 line.vim
+-rw-r--r--  1 scott 2.7K Jun 20 19:46 mixed.vim
+-rw-r--r--  1 scott 4.0K Jun 20 19:46 mrufiles.vim
+-rw-r--r--  1 scott 1.5K Jun 20 19:46 quickfix.vim
+-rw-r--r--  1 scott 1.8K Jun 20 19:46 rtscript.vim
+-rw-r--r--  1 scott 3.4K Jun 20 19:46 tag.vim
+-rw-r--r--  1 scott 3.7K Jun 20 19:46 undo.vim
+-rw-r--r--  1 scott 2.9K Jun 20 19:46 utils.vim
+
+./bundle/ctrlp.vim/doc:
+total 64K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 8 scott  272 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  54K Jun 20 19:46 ctrlp.txt
+-rw-r--r-- 1 scott 5.0K Jun 20 19:46 tags
+
+./bundle/ctrlp.vim/plugin:
+total 4.0K
+drwxr-xr-x 3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 8 scott  272 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 2.5K Jun 20 19:46 ctrlp.vim
+
+./bundle/nerdtree:
+total 12K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .git
+-rw-r--r--  1 scott   14 Jun 20 19:46 .gitignore
+-rw-r--r--  1 scott 4.8K Jun 20 19:46 README.markdown
+drwxr-xr-x  4 scott  136 Jun 20 19:46 autoload
+drwxr-xr-x  4 scott  136 Jun 20 19:46 doc
+drwxr-xr-x  3 scott  102 Jun 20 19:46 lib
+drwxr-xr-x  4 scott  136 Jun 20 19:46 nerdtree_plugin
+drwxr-xr-x  3 scott  102 Jun 20 19:46 plugin
+drwxr-xr-x  3 scott  102 Jun 20 19:46 syntax
+
+./bundle/nerdtree/.git:
+total 20K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott   23 Jun 20 19:46 HEAD
+drwxr-xr-x  2 scott   68 Jun 20 19:46 branches
+-rw-r--r--  1 scott  312 Jun 20 19:46 config
+-rw-r--r--  1 scott   73 Jun 20 19:46 description
+drwxr-xr-x 11 scott  374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 2.1K Jun 20 19:46 index
+drwxr-xr-x  3 scott  102 Jun 20 19:46 info
+drwxr-xr-x  4 scott  136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott  136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 1.6K Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott  170 Jun 20 19:46 refs
+
+./bundle/nerdtree/.git/branches:
+total 0
+drwxr-xr-x  2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+
+./bundle/nerdtree/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/nerdtree/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/nerdtree/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 186 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/nerdtree/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/nerdtree/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 186 Jun 20 19:46 master
+
+./bundle/nerdtree/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/nerdtree/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 186 Jun 20 19:46 HEAD
+
+./bundle/nerdtree/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/nerdtree/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/nerdtree/.git/objects/pack:
+total 1.1M
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott  85K Jun 20 19:46 pack-beb055c2ce43b3a8618f8b6b0c4c323b9da7ab79.idx
+-r--r--r-- 1 scott 967K Jun 20 19:46 pack-beb055c2ce43b3a8618f8b6b0c4c323b9da7ab79.pack
+
+./bundle/nerdtree/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/nerdtree/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/nerdtree/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/nerdtree/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/nerdtree/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/nerdtree/autoload:
+total 16K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 11 scott 374 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 nerdtree
+-rw-r--r--  1 scott 14K Jun 20 19:46 nerdtree.vim
+
+./bundle/nerdtree/autoload/nerdtree:
+total 24K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 23K Jun 20 19:46 ui_glue.vim
+
+./bundle/nerdtree/doc:
+total 64K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott  56K Jun 20 19:46 NERD_tree.txt
+-rw-r--r--  1 scott 4.6K Jun 20 19:46 tags
+
+./bundle/nerdtree/lib:
+total 0
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 11 scott 374 Jun 20 19:46 ..
+drwxr-xr-x 16 scott 544 Jun 20 19:46 nerdtree
+
+./bundle/nerdtree/lib/nerdtree:
+total 140K
+drwxr-xr-x 16 scott  544 Jun 20 19:46 .
+drwxr-xr-x  3 scott  102 Jun 20 19:46 ..
+-rw-r--r--  1 scott  11K Jun 20 19:46 bookmark.vim
+-rw-r--r--  1 scott  11K Jun 20 19:46 creator.vim
+-rw-r--r--  1 scott  383 Jun 20 19:46 event.vim
+-rw-r--r--  1 scott 1.4K Jun 20 19:46 flag_set.vim
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 key_map.vim
+-rw-r--r--  1 scott 5.1K Jun 20 19:46 menu_controller.vim
+-rw-r--r--  1 scott 3.3K Jun 20 19:46 menu_item.vim
+-rw-r--r--  1 scott 1005 Jun 20 19:46 nerdtree.vim
+-rw-r--r--  1 scott 1.0K Jun 20 19:46 notifier.vim
+-rw-r--r--  1 scott 9.6K Jun 20 19:46 opener.vim
+-rw-r--r--  1 scott  21K Jun 20 19:46 path.vim
+-rw-r--r--  1 scott  16K Jun 20 19:46 tree_dir_node.vim
+-rw-r--r--  1 scott  14K Jun 20 19:46 tree_file_node.vim
+-rw-r--r--  1 scott 9.7K Jun 20 19:46 ui.vim
+
+./bundle/nerdtree/nerdtree_plugin:
+total 16K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott 1.6K Jun 20 19:46 exec_menuitem.vim
+-rw-r--r--  1 scott  11K Jun 20 19:46 fs_menu.vim
+
+./bundle/nerdtree/plugin:
+total 8.0K
+drwxr-xr-x  3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott 7.6K Jun 20 19:46 NERD_tree.vim
+
+./bundle/nerdtree/syntax:
+total 8.0K
+drwxr-xr-x  3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 11 scott  374 Jun 20 19:46 ..
+-rw-r--r--  1 scott 4.3K Jun 20 19:46 nerdtree.vim
+
+./bundle/vim-airline:
+total 32K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x  8 scott  272 Jun 20 19:46 ..
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .git
+-rw-r--r--  1 scott   28 Jun 20 19:46 .gitignore
+-rw-r--r--  1 scott   46 Jun 20 19:46 .travis.yml
+-rw-r--r--  1 scott   57 Jun 20 19:46 Gemfile
+-rw-r--r--  1 scott 1.1K Jun 20 19:46 LICENSE
+-rw-r--r--  1 scott  11K Jun 20 19:46 README.md
+-rw-r--r--  1 scott  169 Jun 20 19:46 Rakefile
+drwxr-xr-x  4 scott  136 Jun 20 19:46 autoload
+drwxr-xr-x  4 scott  136 Jun 20 19:46 doc
+drwxr-xr-x  3 scott  102 Jun 20 19:46 plugin
+drwxr-xr-x 12 scott  408 Jun 20 19:46 t
+
+./bundle/vim-airline/.git:
+total 28K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rw-r--r--  1 scott   23 Jun 20 19:46 HEAD
+drwxr-xr-x  2 scott   68 Jun 20 19:46 branches
+-rw-r--r--  1 scott  310 Jun 20 19:46 config
+-rw-r--r--  1 scott   73 Jun 20 19:46 description
+drwxr-xr-x 11 scott  374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 8.7K Jun 20 19:46 index
+drwxr-xr-x  3 scott  102 Jun 20 19:46 info
+drwxr-xr-x  4 scott  136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott  136 Jun 20 19:46 objects
+-rw-r--r--  1 scott  564 Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott  170 Jun 20 19:46 refs
+
+./bundle/vim-airline/.git/branches:
+total 0
+drwxr-xr-x  2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+
+./bundle/vim-airline/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/vim-airline/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/vim-airline/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 184 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/vim-airline/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/vim-airline/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 184 Jun 20 19:46 master
+
+./bundle/vim-airline/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/vim-airline/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 184 Jun 20 19:46 HEAD
+
+./bundle/vim-airline/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/vim-airline/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/vim-airline/.git/objects/pack:
+total 1.7M
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott 164K Jun 20 19:46 pack-8997afd4d35131c179ad4070b64d337c3e8ecae4.idx
+-r--r--r-- 1 scott 1.5M Jun 20 19:46 pack-8997afd4d35131c179ad4070b64d337c3e8ecae4.pack
+
+./bundle/vim-airline/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/vim-airline/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/vim-airline/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/vim-airline/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/vim-airline/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/vim-airline/autoload:
+total 8.0K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+drwxr-xr-x 14 scott  476 Jun 20 19:46 airline
+-rw-r--r--  1 scott 4.9K Jun 20 19:46 airline.vim
+
+./bundle/vim-airline/autoload/airline:
+total 52K
+drwxr-xr-x 14 scott  476 Jun 20 19:46 .
+drwxr-xr-x  4 scott  136 Jun 20 19:46 ..
+-rw-r--r--  1 scott 3.7K Jun 20 19:46 builder.vim
+-rw-r--r--  1 scott 1014 Jun 20 19:46 debug.vim
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 deprecation.vim
+drwxr-xr-x 27 scott  918 Jun 20 19:46 extensions
+-rw-r--r--  1 scott 8.0K Jun 20 19:46 extensions.vim
+-rw-r--r--  1 scott 5.8K Jun 20 19:46 highlighter.vim
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 init.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 parts.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 section.vim
+drwxr-xr-x 31 scott 1.1K Jun 20 19:46 themes
+-rw-r--r--  1 scott 2.6K Jun 20 19:46 themes.vim
+-rw-r--r--  1 scott 1.6K Jun 20 19:46 util.vim
+
+./bundle/vim-airline/autoload/airline/extensions:
+total 100K
+drwxr-xr-x 27 scott  918 Jun 20 19:46 .
+drwxr-xr-x 14 scott  476 Jun 20 19:46 ..
+-rw-r--r--  1 scott 4.0K Jun 20 19:46 branch.vim
+-rw-r--r--  1 scott  811 Jun 20 19:46 bufferline.vim
+-rw-r--r--  1 scott  393 Jun 20 19:46 capslock.vim
+-rw-r--r--  1 scott  427 Jun 20 19:46 commandt.vim
+-rw-r--r--  1 scott  807 Jun 20 19:46 csv.vim
+-rw-r--r--  1 scott 2.8K Jun 20 19:46 ctrlp.vim
+-rw-r--r--  1 scott  710 Jun 20 19:46 ctrlspace.vim
+-rw-r--r--  1 scott 2.6K Jun 20 19:46 default.vim
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 eclim.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 example.vim
+-rw-r--r--  1 scott 2.1K Jun 20 19:46 hunks.vim
+-rw-r--r--  1 scott  997 Jun 20 19:46 netrw.vim
+-rw-r--r--  1 scott 2.2K Jun 20 19:46 nrrwrgn.vim
+-rw-r--r--  1 scott 1.3K Jun 20 19:46 promptline.vim
+-rw-r--r--  1 scott  988 Jun 20 19:46 quickfix.vim
+-rw-r--r--  1 scott  478 Jun 20 19:46 syntastic.vim
+drwxr-xr-x  7 scott  238 Jun 20 19:46 tabline
+-rw-r--r--  1 scott 4.3K Jun 20 19:46 tabline.vim
+-rw-r--r--  1 scott 1.5K Jun 20 19:46 tagbar.vim
+-rw-r--r--  1 scott  871 Jun 20 19:46 tmuxline.vim
+-rw-r--r--  1 scott  782 Jun 20 19:46 undotree.vim
+-rw-r--r--  1 scott  723 Jun 20 19:46 unite.vim
+-rw-r--r--  1 scott  667 Jun 20 19:46 virtualenv.vim
+-rw-r--r--  1 scott 3.4K Jun 20 19:46 whitespace.vim
+-rw-r--r--  1 scott  630 Jun 20 19:46 windowswap.vim
+
+./bundle/vim-airline/autoload/airline/extensions/tabline:
+total 20K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 27 scott  918 Jun 20 19:46 ..
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 autoshow.vim
+-rw-r--r--  1 scott 5.7K Jun 20 19:46 buffers.vim
+-rw-r--r--  1 scott  875 Jun 20 19:46 buflist.vim
+drwxr-xr-x  5 scott  170 Jun 20 19:46 formatters
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 tabs.vim
+
+./bundle/vim-airline/autoload/airline/extensions/tabline/formatters:
+total 12K
+drwxr-xr-x 5 scott  170 Jun 20 19:46 .
+drwxr-xr-x 7 scott  238 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 1.4K Jun 20 19:46 default.vim
+-rw-r--r-- 1 scott  984 Jun 20 19:46 unique_tail.vim
+-rw-r--r-- 1 scott 2.8K Jun 20 19:46 unique_tail_improved.vim
+
+./bundle/vim-airline/autoload/airline/themes:
+total 132K
+drwxr-xr-x 31 scott 1.1K Jun 20 19:46 .
+drwxr-xr-x 14 scott  476 Jun 20 19:46 ..
+-rw-r--r--  1 scott 2.6K Jun 20 19:46 badwolf.vim
+-rw-r--r--  1 scott 6.3K Jun 20 19:46 base16.vim
+-rw-r--r--  1 scott 3.2K Jun 20 19:46 bubblegum.vim
+-rw-r--r--  1 scott 5.0K Jun 20 19:46 dark.vim
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 durant.vim
+-rw-r--r--  1 scott 3.5K Jun 20 19:46 hybrid.vim
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 hybridline.vim
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 jellybeans.vim
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 kalisi.vim
+-rw-r--r--  1 scott 2.3K Jun 20 19:46 kolor.vim
+-rw-r--r--  1 scott 2.6K Jun 20 19:46 laederon.vim
+-rw-r--r--  1 scott 2.1K Jun 20 19:46 light.vim
+-rw-r--r--  1 scott 3.0K Jun 20 19:46 lucius.vim
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 luna.vim
+-rw-r--r--  1 scott 2.3K Jun 20 19:46 molokai.vim
+-rw-r--r--  1 scott  761 Jun 20 19:46 monochrome.vim
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 murmur.vim
+-rw-r--r--  1 scott 2.3K Jun 20 19:46 powerlineish.vim
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 raven.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 serene.vim
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 silver.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 simple.vim
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 sol.vim
+-rw-r--r--  1 scott 7.4K Jun 20 19:46 solarized.vim
+-rw-r--r--  1 scott 2.2K Jun 20 19:46 tomorrow.vim
+-rw-r--r--  1 scott 2.7K Jun 20 19:46 ubaryd.vim
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 understated.vim
+-rw-r--r--  1 scott 3.5K Jun 20 19:46 wombat.vim
+-rw-r--r--  1 scott 2.2K Jun 20 19:46 zenburn.vim
+
+./bundle/vim-airline/doc:
+total 40K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rw-r--r--  1 scott  35K Jun 20 19:46 airline.txt
+-rw-r--r--  1 scott 2.5K Jun 20 19:46 tags
+
+./bundle/vim-airline/plugin:
+total 4.0K
+drwxr-xr-x  3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 3.0K Jun 20 19:46 airline.vim
+
+./bundle/vim-airline/t:
+total 40K
+drwxr-xr-x 12 scott  408 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 19:46 ..
+-rw-r--r--  1 scott 2.4K Jun 20 19:46 airline.vim
+-rw-r--r--  1 scott 3.4K Jun 20 19:46 builder.vim
+-rw-r--r--  1 scott  801 Jun 20 19:46 commands.vim
+-rw-r--r--  1 scott  814 Jun 20 19:46 extensions_default.vim
+-rw-r--r--  1 scott  706 Jun 20 19:46 highlighter.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 init.vim
+-rw-r--r--  1 scott 1.1K Jun 20 19:46 parts.vim
+-rw-r--r--  1 scott 2.7K Jun 20 19:46 section.vim
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 themes.vim
+-rw-r--r--  1 scott 1.4K Jun 20 19:46 util.vim
+
+./bundle/vim-numbertoggle:
+total 8.0K
+drwxr-xr-x  7 scott 238 Jun 20 19:46 .
+drwxr-xr-x  8 scott 272 Jun 20 19:46 ..
+drwxr-xr-x 14 scott 476 Jun 20 19:46 .git
+-rw-r--r--  1 scott   9 Jun 20 19:46 .gitignore
+-rw-r--r--  1 scott 769 Jun 20 19:46 README.markdown
+drwxr-xr-x  4 scott 136 Jun 20 19:46 doc
+drwxr-xr-x  3 scott 102 Jun 20 19:46 plugin
+
+./bundle/vim-numbertoggle/.git:
+total 28K
+drwxr-xr-x 14 scott 476 Jun 20 19:46 .
+drwxr-xr-x  7 scott 238 Jun 20 19:46 ..
+-rw-r--r--  1 scott 114 Jun 20 19:46 FETCH_HEAD
+-rw-r--r--  1 scott  23 Jun 20 19:46 HEAD
+-rw-r--r--  1 scott  41 Jun 20 19:46 ORIG_HEAD
+-rw-r--r--  1 scott 326 Jun 20 19:46 config
+-rw-r--r--  1 scott  73 Jun 20 19:46 description
+drwxr-xr-x 11 scott 374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 460 Jun 20 19:46 index
+drwxr-xr-x  3 scott 102 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott 136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 107 Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott 170 Jun 20 19:46 refs
+
+./bundle/vim-numbertoggle/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 14 scott  476 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott  478 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  424 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./bundle/vim-numbertoggle/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 14 scott 476 Jun 20 19:46 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./bundle/vim-numbertoggle/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 14 scott 476 Jun 20 19:46 ..
+-rw-r--r--  1 scott 211 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./bundle/vim-numbertoggle/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./bundle/vim-numbertoggle/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 211 Jun 20 19:46 master
+
+./bundle/vim-numbertoggle/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/vim-numbertoggle/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 211 Jun 20 19:46 HEAD
+
+./bundle/vim-numbertoggle/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 14 scott 476 Jun 20 19:46 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./bundle/vim-numbertoggle/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./bundle/vim-numbertoggle/.git/objects/pack:
+total 24K
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott 4.5K Jun 20 19:46 pack-8737d17e7f4a845a4a6288cb0ee6be7583af2174.idx
+-r--r--r-- 1 scott  16K Jun 20 19:46 pack-8737d17e7f4a845a4a6288cb0ee6be7583af2174.pack
+
+./bundle/vim-numbertoggle/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 14 scott 476 Jun 20 19:46 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./bundle/vim-numbertoggle/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./bundle/vim-numbertoggle/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./bundle/vim-numbertoggle/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./bundle/vim-numbertoggle/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./bundle/vim-numbertoggle/doc:
+total 8.0K
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 7 scott 238 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 913 Jun 20 19:46 numbertoggle.txt
+-rw-r--r-- 1 scott 220 Jun 20 19:46 tags
+
+./bundle/vim-numbertoggle/plugin:
+total 4.0K
+drwxr-xr-x 3 scott  102 Jun 20 19:46 .
+drwxr-xr-x 7 scott  238 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 3.1K Jun 20 19:46 number_toggle.vim
+
+./colors:
+total 8.0K
+drwxr-xr-x  4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 20:17 ..
+-rw-r-----  1 scott 2.6K Jun 20 19:46 wombat256.vim
+-rw-r-----  1 scott 3.3K Jun 20 19:46 wombat256mod.vim
+
+./fonts:
+total 0
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:17 ..
+drwxr-xr-x 19 scott 646 Jun 20 19:46 powerline
+
+./fonts/powerline:
+total 8.0K
+drwxr-xr-x 19 scott  646 Jun 20 19:46 .
+drwxr-xr-x  3 scott  102 Jun 20 19:46 ..
+drwxr-xr-x 13 scott  442 Jun 20 20:10 .git
+drwxr-xr-x 10 scott  340 Jun 20 19:46 AnonymousPro
+drwxr-xr-x 10 scott  340 Jun 20 19:46 DejaVuSansMono
+drwxr-xr-x  7 scott  238 Jun 20 19:46 DroidSansMono
+drwxr-xr-x  9 scott  306 Jun 20 19:46 FiraMono
+drwxr-xr-x  7 scott  238 Jun 20 19:46 Inconsolata
+drwxr-xr-x  7 scott  238 Jun 20 19:46 Inconsolata-g
+drwxr-xr-x  7 scott  238 Jun 20 19:46 InconsolataDz
+drwxr-xr-x  3 scott  102 Jun 20 19:46 InputMono
+drwxr-xr-x 10 scott  340 Jun 20 19:46 LiberationMono
+drwxr-xr-x 12 scott  408 Jun 20 19:46 Meslo
+drwxr-xr-x  6 scott  204 Jun 20 19:46 Monofur
+-rw-r--r--  1 scott 1.9K Jun 20 19:46 README.rst
+drwxr-xr-x 13 scott  442 Jun 20 19:46 SourceCodePro
+drwxr-xr-x  7 scott  238 Jun 20 19:46 Terminus
+drwxr-xr-x 10 scott  340 Jun 20 19:46 UbuntuMono
+-rwxr-xr-x  1 scott  594 Jun 20 19:46 install.sh
+
+./fonts/powerline/.git:
+total 32K
+drwxr-xr-x 13 scott 442 Jun 20 20:10 .
+drwxr-xr-x 19 scott 646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  23 Jun 20 19:46 HEAD
+drwxr-xr-x  2 scott  68 Jun 20 19:46 branches
+-rw-r--r--  1 scott 308 Jun 20 19:46 config
+-rw-r--r--  1 scott  73 Jun 20 19:46 description
+drwxr-xr-x 11 scott 374 Jun 20 19:46 hooks
+-rw-r--r--  1 scott 15K Jun 20 20:10 index
+drwxr-xr-x  3 scott 102 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 logs
+drwxr-xr-x  4 scott 136 Jun 20 19:46 objects
+-rw-r--r--  1 scott 107 Jun 20 19:46 packed-refs
+drwxr-xr-x  5 scott 170 Jun 20 19:46 refs
+
+./fonts/powerline/.git/branches:
+total 0
+drwxr-xr-x  2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:10 ..
+
+./fonts/powerline/.git/hooks:
+total 40K
+drwxr-xr-x 11 scott  374 Jun 20 19:46 .
+drwxr-xr-x 13 scott  442 Jun 20 20:10 ..
+-rwxr-xr-x  1 scott  452 Jun 20 19:46 applypatch-msg.sample
+-rwxr-xr-x  1 scott  896 Jun 20 19:46 commit-msg.sample
+-rwxr-xr-x  1 scott  189 Jun 20 19:46 post-update.sample
+-rwxr-xr-x  1 scott  398 Jun 20 19:46 pre-applypatch.sample
+-rwxr-xr-x  1 scott 1.7K Jun 20 19:46 pre-commit.sample
+-rwxr-xr-x  1 scott 1.4K Jun 20 19:46 pre-push.sample
+-rwxr-xr-x  1 scott 4.9K Jun 20 19:46 pre-rebase.sample
+-rwxr-xr-x  1 scott 1.3K Jun 20 19:46 prepare-commit-msg.sample
+-rwxr-xr-x  1 scott 3.6K Jun 20 19:46 update.sample
+
+./fonts/powerline/.git/info:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:10 ..
+-rw-r--r--  1 scott 240 Jun 20 19:46 exclude
+
+./fonts/powerline/.git/logs:
+total 4.0K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:10 ..
+-rw-r--r--  1 scott 182 Jun 20 19:46 HEAD
+drwxr-xr-x  4 scott 136 Jun 20 19:46 refs
+
+./fonts/powerline/.git/logs/refs:
+total 0
+drwxr-xr-x 4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x 3 scott 102 Jun 20 19:46 remotes
+
+./fonts/powerline/.git/logs/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 182 Jun 20 19:46 master
+
+./fonts/powerline/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./fonts/powerline/.git/logs/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott 182 Jun 20 19:46 HEAD
+
+./fonts/powerline/.git/objects:
+total 0
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:10 ..
+drwxr-xr-x  2 scott  68 Jun 20 19:46 info
+drwxr-xr-x  4 scott 136 Jun 20 19:46 pack
+
+./fonts/powerline/.git/objects/info:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 4 scott 136 Jun 20 19:46 ..
+
+./fonts/powerline/.git/objects/pack:
+total 7.4M
+drwxr-xr-x 4 scott  136 Jun 20 19:46 .
+drwxr-xr-x 4 scott  136 Jun 20 19:46 ..
+-r--r--r-- 1 scott  14K Jun 20 19:46 pack-d7f04577a1026a9e69dfa8d3ce6bdf5f376a5ca5.idx
+-r--r--r-- 1 scott 7.4M Jun 20 19:46 pack-d7f04577a1026a9e69dfa8d3ce6bdf5f376a5ca5.pack
+
+./fonts/powerline/.git/refs:
+total 0
+drwxr-xr-x  5 scott 170 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:10 ..
+drwxr-xr-x  3 scott 102 Jun 20 19:46 heads
+drwxr-xr-x  3 scott 102 Jun 20 19:46 remotes
+drwxr-xr-x  2 scott  68 Jun 20 19:46 tags
+
+./fonts/powerline/.git/refs/heads:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  41 Jun 20 19:46 master
+
+./fonts/powerline/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+drwxr-xr-x 3 scott 102 Jun 20 19:46 origin
+
+./fonts/powerline/.git/refs/remotes/origin:
+total 4.0K
+drwxr-xr-x 3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 3 scott 102 Jun 20 19:46 ..
+-rw-r--r-- 1 scott  32 Jun 20 19:46 HEAD
+
+./fonts/powerline/.git/refs/tags:
+total 0
+drwxr-xr-x 2 scott  68 Jun 20 19:46 .
+drwxr-xr-x 5 scott 170 Jun 20 19:46 ..
+
+./fonts/powerline/AnonymousPro:
+total 460K
+drwxr-xr-x 10 scott  340 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 100K Jun 20 19:46 Anonymice Powerline Bold Italic.ttf
+-rw-r--r--  1 scott 111K Jun 20 19:46 Anonymice Powerline Bold.ttf
+-rw-r--r--  1 scott 102K Jun 20 19:46 Anonymice Powerline Italic.ttf
+-rw-r--r--  1 scott 116K Jun 20 19:46 Anonymice Powerline.ttf
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  896 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott 7.0K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 7.0K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/DejaVuSansMono:
+total 1.2M
+drwxr-xr-x 10 scott  340 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 232K Jun 20 19:46 DejaVu Sans Mono Bold Oblique for Powerline.ttf
+-rw-r--r--  1 scott 308K Jun 20 19:46 DejaVu Sans Mono Bold for Powerline.ttf
+-rw-r--r--  1 scott 238K Jun 20 19:46 DejaVu Sans Mono Oblique for Powerline.ttf
+-rw-r--r--  1 scott 327K Jun 20 19:46 DejaVu Sans Mono for Powerline.ttf
+-rw-r--r--  1 scott 4.7K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  189 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  10K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  10K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/DroidSansMono:
+total 160K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 143K Jun 20 19:46 Droid Sans Mono for Powerline.otf
+-rw-r--r--  1 scott  572 Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  170 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 2.0K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/FiraMono:
+total 344K
+drwxr-xr-x  9 scott  306 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 106K Jun 20 19:46 FuraMono-Bold Powerline.otf
+-rw-r--r--  1 scott 104K Jun 20 19:46 FuraMono-Medium Powerline.otf
+-rw-r--r--  1 scott 102K Jun 20 19:46 FuraMono-Regular Powerline.otf
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  692 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott 6.5K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 6.5K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/Inconsolata:
+total 52K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  29K Jun 20 19:46 Inconsolata for Powerline.otf
+-rw-r--r--  1 scott 4.3K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  182 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  608 Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  608 Jun 20 19:46 fonts.scale
+
+./fonts/powerline/Inconsolata-g:
+total 48K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  26K Jun 20 19:46 Inconsolata-g for Powerline.otf
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  221 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  632 Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  632 Jun 20 19:46 fonts.scale
+
+./fonts/powerline/InconsolataDz:
+total 48K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  26K Jun 20 19:46 Inconsolata-dz for Powerline.otf
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  224 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  644 Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  644 Jun 20 19:46 fonts.scale
+
+./fonts/powerline/InputMono:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 19 scott 646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 172 Jun 20 19:46 README.rst
+
+./fonts/powerline/LiberationMono:
+total 1.2M
+drwxr-xr-x 10 scott  340 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott 273K Jun 20 19:46 Literation Mono Powerline Bold Italic.ttf
+-rw-r--r--  1 scott 296K Jun 20 19:46 Literation Mono Powerline Bold.ttf
+-rw-r--r--  1 scott 270K Jun 20 19:46 Literation Mono Powerline Italic.ttf
+-rw-r--r--  1 scott 308K Jun 20 19:46 Literation Mono Powerline.ttf
+-rw-r--r--  1 scott  796 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  11K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  11K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/Meslo:
+total 2.9M
+drwxr-xr-x 12 scott  408 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  571 Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG L DZ Regular for Powerline.otf
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG L Regular for Powerline.otf
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG M DZ Regular for Powerline.otf
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG M Regular for Powerline.otf
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG S DZ Regular for Powerline.otf
+-rw-r--r--  1 scott 476K Jun 20 19:46 Meslo LG S Regular for Powerline.otf
+-rw-r--r--  1 scott  153 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  16K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  16K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/Monofur:
+total 456K
+drwxr-xr-x  6 scott  204 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott  940 Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott 135K Jun 20 19:46 Monofur Bold for Powerline.ttf
+-rw-r--r--  1 scott 164K Jun 20 19:46 Monofur Italic for Powerline.ttf
+-rw-r--r--  1 scott 152K Jun 20 19:46 Monofur for Powerline.ttf
+
+./fonts/powerline/SourceCodePro:
+total 672K
+drwxr-xr-x 13 scott  442 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rwxr-xr-x  1 scott 4.6K Jun 20 19:46 LICENSE.txt
+-rw-r--r--  1 scott  838 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott  92K Jun 20 19:46 Sauce Code Powerline Black.otf
+-rw-r--r--  1 scott  95K Jun 20 19:46 Sauce Code Powerline Bold.otf
+-rw-r--r--  1 scott  86K Jun 20 19:46 Sauce Code Powerline ExtraLight.otf
+-rw-r--r--  1 scott  90K Jun 20 19:46 Sauce Code Powerline Light.otf
+-rw-r--r--  1 scott  91K Jun 20 19:46 Sauce Code Powerline Medium.otf
+-rw-r--r--  1 scott  92K Jun 20 19:46 Sauce Code Powerline Regular.otf
+-rw-r--r--  1 scott  92K Jun 20 19:46 Sauce Code Powerline Semibold.otf
+-rw-r--r--  1 scott 7.8K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 7.8K Jun 20 19:46 fonts.scale
+
+./fonts/powerline/Terminus:
+total 12K
+drwxr-xr-x  7 scott  238 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+drwxr-xr-x 21 scott  714 Jun 20 19:46 BDF
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 LICENSE.txt
+drwxr-xr-x 21 scott  714 Jun 20 19:46 PCF
+drwxr-xr-x 22 scott  748 Jun 20 19:46 PSF
+-rw-r--r--  1 scott 2.2K Jun 20 19:46 README.rst
+
+./fonts/powerline/Terminus/BDF:
+total 2.9M
+drwxr-xr-x 21 scott  714 Jun 20 19:46 .
+drwxr-xr-x  7 scott  238 Jun 20 19:46 ..
+-rw-r--r--  1 scott 1.7K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 107K Jun 20 19:46 ter-powerline-x12b.bdf
+-rw-r--r--  1 scott 107K Jun 20 19:46 ter-powerline-x12n.bdf
+-rw-r--r--  1 scott 113K Jun 20 19:46 ter-powerline-x14b.bdf
+-rw-r--r--  1 scott 113K Jun 20 19:46 ter-powerline-x14n.bdf
+-rw-r--r--  1 scott 118K Jun 20 19:46 ter-powerline-x16b.bdf
+-rw-r--r--  1 scott 118K Jun 20 19:46 ter-powerline-x16n.bdf
+-rw-r--r--  1 scott 156K Jun 20 19:46 ter-powerline-x18b.bdf
+-rw-r--r--  1 scott 156K Jun 20 19:46 ter-powerline-x18n.bdf
+-rw-r--r--  1 scott 165K Jun 20 19:46 ter-powerline-x20b.bdf
+-rw-r--r--  1 scott 165K Jun 20 19:46 ter-powerline-x20n.bdf
+-rw-r--r--  1 scott 174K Jun 20 19:46 ter-powerline-x22b.bdf
+-rw-r--r--  1 scott 174K Jun 20 19:46 ter-powerline-x22n.bdf
+-rw-r--r--  1 scott 183K Jun 20 19:46 ter-powerline-x24b.bdf
+-rw-r--r--  1 scott 183K Jun 20 19:46 ter-powerline-x24n.bdf
+-rw-r--r--  1 scott 200K Jun 20 19:46 ter-powerline-x28b.bdf
+-rw-r--r--  1 scott 200K Jun 20 19:46 ter-powerline-x28n.bdf
+-rw-r--r--  1 scott 217K Jun 20 19:46 ter-powerline-x32b.bdf
+-rw-r--r--  1 scott 217K Jun 20 19:46 ter-powerline-x32n.bdf
+
+./fonts/powerline/Terminus/PCF:
+total 356K
+drwxr-xr-x 21 scott  714 Jun 20 19:46 .
+drwxr-xr-x  7 scott  238 Jun 20 19:46 ..
+-rw-r--r--  1 scott 1.8K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott  16K Jun 20 19:46 ter-powerline-x12b.pcf.gz
+-rw-r--r--  1 scott  16K Jun 20 19:46 ter-powerline-x12n.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x14b.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x14n.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x16b.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x16n.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x18b.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x18n.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x20b.pcf.gz
+-rw-r--r--  1 scott  17K Jun 20 19:46 ter-powerline-x20n.pcf.gz
+-rw-r--r--  1 scott  18K Jun 20 19:46 ter-powerline-x22b.pcf.gz
+-rw-r--r--  1 scott  18K Jun 20 19:46 ter-powerline-x22n.pcf.gz
+-rw-r--r--  1 scott  18K Jun 20 19:46 ter-powerline-x24b.pcf.gz
+-rw-r--r--  1 scott  18K Jun 20 19:46 ter-powerline-x24n.pcf.gz
+-rw-r--r--  1 scott  20K Jun 20 19:46 ter-powerline-x28b.pcf.gz
+-rw-r--r--  1 scott  19K Jun 20 19:46 ter-powerline-x28n.pcf.gz
+-rw-r--r--  1 scott  20K Jun 20 19:46 ter-powerline-x32b.pcf.gz
+-rw-r--r--  1 scott  20K Jun 20 19:46 ter-powerline-x32n.pcf.gz
+
+./fonts/powerline/Terminus/PSF:
+total 128K
+drwxr-xr-x 22 scott  748 Jun 20 19:46 .
+drwxr-xr-x  7 scott  238 Jun 20 19:46 ..
+-rw-r--r--  1 scott  879 Jun 20 19:46 README.markdown
+-rw-r--r--  1 scott 3.5K Jun 20 19:46 ter-powerline-v12n.psf.gz
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 ter-powerline-v14b.psf.gz
+-rw-r--r--  1 scott 3.8K Jun 20 19:46 ter-powerline-v14n.psf.gz
+-rw-r--r--  1 scott 3.9K Jun 20 19:46 ter-powerline-v14v.psf.gz
+-rw-r--r--  1 scott 3.9K Jun 20 19:46 ter-powerline-v16b.psf.gz
+-rw-r--r--  1 scott 3.9K Jun 20 19:46 ter-powerline-v16n.psf.gz
+-rw-r--r--  1 scott 3.9K Jun 20 19:46 ter-powerline-v16v.psf.gz
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 ter-powerline-v18b.psf.gz
+-rw-r--r--  1 scott 4.4K Jun 20 19:46 ter-powerline-v18n.psf.gz
+-rw-r--r--  1 scott 4.6K Jun 20 19:46 ter-powerline-v20b.psf.gz
+-rw-r--r--  1 scott 4.5K Jun 20 19:46 ter-powerline-v20n.psf.gz
+-rw-r--r--  1 scott 4.9K Jun 20 19:46 ter-powerline-v22b.psf.gz
+-rw-r--r--  1 scott 4.8K Jun 20 19:46 ter-powerline-v22n.psf.gz
+-rw-r--r--  1 scott 5.0K Jun 20 19:46 ter-powerline-v24b.psf.gz
+-rw-r--r--  1 scott 4.9K Jun 20 19:46 ter-powerline-v24n.psf.gz
+-rw-r--r--  1 scott 5.6K Jun 20 19:46 ter-powerline-v28b.psf.gz
+-rw-r--r--  1 scott 5.3K Jun 20 19:46 ter-powerline-v28n.psf.gz
+-rw-r--r--  1 scott 5.8K Jun 20 19:46 ter-powerline-v32b.psf.gz
+-rw-r--r--  1 scott 5.8K Jun 20 19:46 ter-powerline-v32n.psf.gz
+
+./fonts/powerline/UbuntuMono:
+total 820K
+drwxr-xr-x 10 scott  340 Jun 20 19:46 .
+drwxr-xr-x 19 scott  646 Jun 20 19:46 ..
+-rw-r--r--  1 scott 4.6K Jun 20 19:46 LICENCE.txt
+-rw-r--r--  1 scott  957 Jun 20 19:46 README.rst
+-rw-r--r--  1 scott 205K Jun 20 19:46 Ubuntu Mono derivative Powerline Bold Italic.ttf
+-rw-r--r--  1 scott 179K Jun 20 19:46 Ubuntu Mono derivative Powerline Bold.ttf
+-rw-r--r--  1 scott 198K Jun 20 19:46 Ubuntu Mono derivative Powerline Italic.ttf
+-rw-r--r--  1 scott 193K Jun 20 19:46 Ubuntu Mono derivative Powerline.ttf
+-rw-r--r--  1 scott 9.0K Jun 20 19:46 fonts.dir
+-rw-r--r--  1 scott 9.0K Jun 20 19:46 fonts.scale
+
+./ftdetect:
+total 4.0K
+drwxr-xr-x  3 scott 102 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:17 ..
+-rw-r--r--  1 scott  56 Jun 20 19:46 groovy.vim
+
+./syntax:
+total 48K
+drwxr-xr-x  4 scott 136 Jun 20 19:46 .
+drwxr-xr-x 13 scott 442 Jun 20 20:17 ..
+-rw-r--r--  1 scott 23K Jun 20 19:46 groovy.vim
+-rw-r-----  1 scott 22K Jun 20 19:46 groovy_old.vim_old
+
